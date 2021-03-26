@@ -1,1 +1,1 @@
-# Next.js-Movies-Dynamic-Route
+# Next.js-Comments-Dynamic-Route
